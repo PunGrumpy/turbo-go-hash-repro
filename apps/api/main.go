@@ -6,4 +6,6 @@ import (
 	"example.com/repro/packages/lib"
 )
 
-func main() { fmt.Println(lib.Greeting()) }
+func main() {
+	fmt.Println(lib.Greeting())
+}

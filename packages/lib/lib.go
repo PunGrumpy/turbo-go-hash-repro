@@ -1,3 +1,5 @@
 package lib
 
-func Greeting() string { return "hello" }
+func Greeting() string {
+	return "hello"
+}
